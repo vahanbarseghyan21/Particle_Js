@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: black;
+}
+#snow_fall{
+    width: 799px;
+    height: 480px;
+    background: #262626 url("../img/MmHXWg.jpg");
+    background-repeat: no-repeat;
+    /*background-size: cover;*/
+    box-sizing: border-box;
+    float: left;
+}
+#effect_js{
+    width: 550px;
+    height: 480px;
+    background: #262626 url("../img/zhenshch.jpg");
+    background-repeat: no-repeat;
+    /*background-size: cover;*/
+    /*float: right;*/
+    box-sizing: border-box;
+    float: left;
+}
